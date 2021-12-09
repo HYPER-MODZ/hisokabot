@@ -31,7 +31,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'ඩවුන්ලෝඩ් කරමින් පවතී 🙂,
+    wait: 'ඩවුන්ලෝඩ් කරමින් පවතී 🙂',
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
