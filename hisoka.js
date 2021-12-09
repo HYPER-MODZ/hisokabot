@@ -85,7 +85,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 
         switch(command) {
 	    case 'sc': {
-                m.reply('https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV')
+                m.reply('https://youtube.com/c/HYPERMOD')
             }
             break
             case 'chat': {
@@ -503,9 +503,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     + 'N:;supuna.;;;'
                     + 'FN:supuna.\n' // full name
                     + 'ORG:Owner Bot;\n' // the organization of the contact
-                    + 'TEL;type=CELL;type=VOICE;waid=94753943957:+94 753-9439-57\n' // WhatsApp ID + phone number
+                    + 'TEL;type=CELL;type=VOICE;waid=94713195756:+94 71-319-5756\n' // WhatsApp ID + phone number
                     + 'END:VCARD'
-                hisoka.sendMessage(m.chat, { contacts: { displayName: '᳆⃞✪⃟⃟𝐬𝐮𝐩𝐮𝐧★᭄.', contacts: [{ vcard }] } }, { quoted: m })
+                hisoka.sendMessage(m.chat, { contacts: { displayName: '᳆⃞✪⃟⃟𝐋𝐚𝐤𝐬𝐡𝐢𝐭𝐡𝐚★᭄', contacts: [{ vcard }] } }, { quoted: m })
             }
             break
             case 'eval': {
@@ -533,7 +533,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 let buttonMessage = {
                     image: {url: 'https://telegra.ph/file/bb15c9a53c4a0b68a99fa.jpg' },
                     caption: `Hello @${m.sender.split("@")[0]}`,
-                    footerText: 'Hi Im BOTKINGDOM Bot',
+                    footerText: 'Hi Im HYPER Bot',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -628,8 +628,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             hydratedContentText: anu,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'MAIN GROUP',
-                                    url: 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
+                                    displayText: 'YOUTUBE',
+                                    url: 'https://youtube.com/c/HYPERMOD'
                                 }
                             }, {
                                 callButton: {
